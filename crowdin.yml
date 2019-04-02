@@ -22,7 +22,7 @@ files: [
     # Source files filter
     # e.g. "/resources/en/*.json"
     #
-    "source" : "en-GB.plg_system_jcemediabox.ini",
+    "source" : "en-GB.plg_system_jcemediabox*.ini",
 
     #
     # where translations live
@@ -45,7 +45,7 @@ files: [
     # Source files filter
     # e.g. "/resources/en/*.json"
     #
-    "source" : "en-GB.plg_system_jcemediabox.sys.ini",
+    "source" : "en-GB.jcemediabox.xml",
 
     #
     # where translations live
@@ -61,6 +61,6 @@ files: [
     # File type
     # e.g. "json"
     #
-    "type" : "ini"
+    "type" : "xml"
   }
 ]
