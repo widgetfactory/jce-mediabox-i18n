@@ -22,13 +22,13 @@ files: [
     # Source files filter
     # e.g. "/resources/en/*.json"
     #
-    "source" : "/administrator/language/en-GB.plg_system_jcemediabox*.ini",
+    "source" : "en-GB.plg_system_jcemediabox*.ini",
 
     #
     # where translations live
     # e.g. "/resources/%two_letters_code%/%original_file_name%"
     #
-    "translation" : "administrator/language/%locale%.%original_file_name%",
+    "translation" : "%locale%.%original_file_name%",
 
     "translation_replace": {
       "en-GB." : ""
