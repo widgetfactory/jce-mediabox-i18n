@@ -22,7 +22,7 @@ files: [
     # Source files filter
     # e.g. "/resources/en/*.json"
     #
-    "source" : "en-GB.plg_system_jcemediabox*.ini",
+    "source" : "/en-GB.plg_system_jcemediabox*.ini",
 
     #
     # where translations live
