@@ -4,7 +4,7 @@
 	<version>2.0.0</version>
 	<creationDate>April 2019</creationDate>
 	<author>Ryan Demmer</author>
-	<authorEmail>durualan@hotmail.com</authorEmail>
+	<authorEmail>info@joomlacontenteditor.net</authorEmail>
 	<authorUrl>https://joomlacontenteditor.net</authorUrl>
 	<copyright>© 2019 Widget Factory Limited</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
@@ -13,7 +13,7 @@
 	<fileset>
 		<files folder="" target="administrator/language/en-GB">
 		    <file>en-GB.plg_system_jcemediabox.ini</file>
-		    <file>den-GB.plg_system_jcemediabox.sys.ini</file>
+		    <file>en-GB.plg_system_jcemediabox.sys.ini</file>
 		</files>
   	</fileset>
 </extension>
