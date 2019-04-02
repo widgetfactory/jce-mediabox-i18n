@@ -13,7 +13,7 @@
 	<fileset>
 		<files folder="" target="administrator/language/en-GB">
 		    <file>en-GB.plg_system_jcemediabox.ini</file>
-		    <file>den-GB.plg_system_jcemediabox.sys.ini</file>
+		    <file>en-GB.plg_system_jcemediabox.sys.ini</file>
 		</files>
   	</fileset>
 </extension>
