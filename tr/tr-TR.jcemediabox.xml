@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="2.5" method="upgrade">
-	<name>JCE MEdiaBox - English (United Kingdom)</name>
+	<name>JCE MediaBox - English (United Kingdom)</name>
 	<version>2.0.0</version>
 	<creationDate>April 2019</creationDate>
 	<author>Ryan Demmer</author>
-	<authorEmail>info@joomlacontenteditor.net</authorEmail>
+	<authorEmail>durualan@hotmail.com</authorEmail>
 	<authorUrl>https://joomlacontenteditor.net</authorUrl>
 	<copyright>© 2019 Widget Factory Limited</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
