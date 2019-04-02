@@ -1,0 +1,43 @@
+
+#
+# Your crowdin's credentials
+#
+"project_identifier" : "jceeditor"
+"api_key" : ""
+"base_path" : ""
+"base_url" : ""
+
+#
+# Choose file structure in crowdin
+# e.g. true or false
+#
+"preserve_hierarchy": true
+
+#
+# Files configuration
+#
+files: [
+  {
+    #
+    # Source files filter
+    # e.g. "/resources/en/*.json"
+    #
+    "source" : "/administrator/language/en-GB.plg_system_jcemediabox*.ini",
+
+    #
+    # where translations live
+    # e.g. "/resources/%two_letters_code%/%original_file_name%"
+    #
+    "translation" : "administrator/language/%locale%.%original_file_name%",
+
+    "translation_replace": {
+      "en-GB." : ""
+    },
+
+    #
+    # File type
+    # e.g. "json"
+    #
+    "type" : "ini"
+  }
+]
