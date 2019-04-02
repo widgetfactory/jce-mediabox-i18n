@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="2.5" method="upgrade">
-	<name>JCE MEdiaBox - English (United Kingdom)</name>
+	<name>JCE MediaBox - English (United Kingdom)</name>
 	<version>2.0.0</version>
 	<creationDate>April 2019</creationDate>
 	<author>Ryan Demmer</author>
