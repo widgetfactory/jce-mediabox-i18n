@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="file" version="2.5" method="upgrade">
-	<name>JCE MediaBox - English (United Kingdom)</name>
+	<name>JCE MediaBox - Svenska (Sverige)</name>
 	<version>2.0.0</version>
 	<creationDate>April 2019</creationDate>
 	<author>Ryan Demmer</author>
@@ -9,7 +9,7 @@
 	<copyright>© 2019 Widget Factory Limited</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url>https://crowdin.com/project/jce-mediabox</url>
-	<description>English (United Kingdom) Language Pack for JCE MediaBox 2</description>
+	<description>Svenska (Sverige) språkpaket för JCE MediaBox 2</description>
 	<fileset>
 		<files folder="" target="administrator/language/en-GB">
 		    <file>en-GB.plg_system_jcemediabox.ini</file>
